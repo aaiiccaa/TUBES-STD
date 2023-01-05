@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1672666326 source:d:\telkom university\semester 3\c++\tubes bismillah\main.cpp
+	"family.h"
+
+1672441065 d:\telkom university\semester 3\c++\tubes bismillah\family.h
+	<iostream>
+
+1672666153 source:d:\telkom university\semester 3\c++\tubes bismillah\family.cpp
+	"family.h"
+
